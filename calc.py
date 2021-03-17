@@ -15,3 +15,5 @@ def square(x,y):
 
 def log(x,y):
     pass
+
+  #Christoforos rulez
