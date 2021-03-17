@@ -17,3 +17,6 @@ def log(x,y):
     pass
 
   #Christoforos rulez
+def chris_law(x,y):
+    x+y-1
+    
